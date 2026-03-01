@@ -1,7 +1,6 @@
 # 📈 Advanced Option Pricing Engine
 
 A **modular quantitative finance framework** for pricing derivative securities using **analytical methods** and **Monte Carlo simulations**.  
-
 This project demonstrates **numerical methods**, **stochastic simulations**, **variance reduction techniques**, and **sensitivity analysis** used in quantitative finance and derivatives trading.
 
 ---
@@ -35,7 +34,6 @@ The framework is **modular**, allowing future extensions like **stochastic volat
 
 ### 🔹 Variance Reduction Techniques
 Improve estimator efficiency using:
-
 - 🔄 **Antithetic Variates**  
 - 🎯 **Control Variates**  
 - 📊 Absolute error comparison vs analytical benchmark  
@@ -43,13 +41,11 @@ Improve estimator efficiency using:
 
 ### 🔹 Path-Dependent Options
 Monte Carlo pricing for exotic derivatives:
-
 - 🍚 **Asian Options** (Arithmetic Average)  
 - 🚧 **Up-and-Out Barrier Call Options**  
 
 ### 🔹 Greeks Estimation (Sensitivity Analysis)
 Numerical estimation using finite-difference Monte Carlo:
-
 - 🔹 **Delta**  
 - 🔹 **Gamma**  
 - 🔹 **Vega**  
@@ -69,7 +65,6 @@ Numerical estimation using finite-difference Monte Carlo:
 ---
 
 ## 🏗 Project Structure
-
 ```text
 Advanced-Option-Pricing/
 ├─ models/
@@ -83,6 +78,7 @@ Advanced-Option-Pricing/
 ├─ main.py
 ├─ requirements.txt
 └─ README.md
+```
 
 ---
 
