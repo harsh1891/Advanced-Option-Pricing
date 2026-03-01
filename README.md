@@ -84,3 +84,13 @@ Advanced-Option-Pricing/
 ├─ requirements.txt
 └─ README.md
 
+---
+
+## 👨‍💻 Author
+
+**Harsh Ambade**  
+Aspiring Quantitative Developer | Financial Engineering Enthusiast
+
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/harsh-ambade-12046b282/?originalSubdomain=in) | [GitHub](https://github.com/harsh1891)
+- 💼 Interested in: Quantitative Finance, Option Pricing, Algorithmic Trading
+- 🌱 Learning: Advanced Monte Carlo Methods, Stochastic Volatility Models
